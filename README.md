@@ -1,4 +1,4 @@
-# este un tiutlo
-
-##este es un subtitulo
-aqui se encuentra la imprementacion y procesos relacionados con el proyecto tal
+#objectivos
+codigos y trabajos en c++
+##integrante:
+jonathan melo
